@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">DuBaoThoiTiet</string>
+    <string name="gio">Gió</string>
+    <string name="nd_cam_nhan">Cảm giác như</string>
+    <string name="do_am">Độ Ẩm</string>
+    <string name="ap_suat">Áp Suất</string>
+    <string name="hom_nay">Hôm nay</string>
+    <string name="ngay_mai">Ngày mai</string>
+    <string name="ngay_kia">Ngày kia</string>
+    <string name="chi_tiet">Chi tiết</string>
+    <string name="du_lieu">Dữ liệu được cung cấp bởi</string>
+    <string name="web_name">OpenWeather</string>
+    <string name="ndcn_ndtn">_ _° / _ _°</string>
+    <string name="du_lieu_tat"><b>Dữ liệu di động đã tắt</b></string>
+    <string name="bat_du_lieu">Bật dữ liệu di động hoặc sử dụng Wi-Fi để truy cấp dữ liệu.</string>
+    <string name="cai_dat">Cài đặt</string>
+    <string name="ok">Ok</string>
+    <string name="hint_tim_kiem">Nhập tên tỉnh, thành phố</string>
+    <string name="cancel">Hủy</string>
+</resources>

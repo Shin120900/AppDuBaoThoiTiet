@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout
+        android:layout_width="@dimen/_80sdp"
+        android:layout_height="@dimen/_80sdp"
+        android:orientation="vertical">
+        <TextView
+            android:textColor="@color/white"
+            android:id="@+id/tvTime"
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/_15sdp"/>
+        <TextView
+            android:textColor="@color/white"
+            android:gravity="center"
+            android:id="@+id/tvNhietDoGio"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/_20sdp"/>
+        <TextView
+            android:id="@+id/tvIconGio"
+            android:layout_marginTop="@dimen/_5sdp"
+            android:layout_gravity="center"
+            android:layout_width="@dimen/_25sdp"
+            android:layout_height="@dimen/_25sdp"/>
+
+    </LinearLayout>
+
+</layout>
